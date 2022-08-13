@@ -1,3 +1,5 @@
+##HI ALISON I LOVE YOU!
+
 ## Welcome to Shurtech's GitHub Pages
 
 Thank you for stopping by!  Please look forward to many interesting projects and ways to learn together in the future.
