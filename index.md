@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Shurtech's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shurtech/shurtech.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for stopping by!  Please look forward to many interesting projects and ways to learn together in the future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The rest of this is generic placeholder stuff, more to come soon!
 
 ### Markdown
 
