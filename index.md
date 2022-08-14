@@ -1,44 +1,14 @@
-## Welcome to Steve Hurtuk's (aka: shurtech) GitHub Pages Website
+## Welcome to my GitHub Pages website dedicated to learning and contributing in the world of Development/Operations in IT.
 
 Thank you for stopping by!  Please look forward to many interesting projects and ways to learn together in the future.
 
-### The rest of this is generic placeholder stuff, more to come soon!
+### More to come soon!
 
 Future Content:
 - Linux
+- Python
 - Kubernetes
 - Docker
 - Ansible
+- Jenkins
 - Tutorials
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shurtech/shurtech.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
