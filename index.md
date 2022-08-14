@@ -1,10 +1,15 @@
-## HI ALISON I LOVE YOU!
-
-## Welcome to Shurtech's GitHub Pages
+## Welcome to Steve Hurtuk's (aka: shurtech) GitHub Pages Website
 
 Thank you for stopping by!  Please look forward to many interesting projects and ways to learn together in the future.
 
 ### The rest of this is generic placeholder stuff, more to come soon!
+
+Future Content:
+- Linux
+- Kubernetes
+- Docker
+- Ansible
+- Tutorials
 
 ### Markdown
 
