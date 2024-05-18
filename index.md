@@ -2,7 +2,7 @@
 
 ### Stay Tuned
 
-![Radios](./_media/radios.jpg)
+![Radios](./media/radios.jpg)
 
 Future Tutorial Content:
 - Linux
