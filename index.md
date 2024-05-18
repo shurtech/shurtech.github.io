@@ -1,12 +1,12 @@
 ## Thanks for stopping by...
 
-### Stay Tunes
+### Stay Tuned
 
-Future Content:
+Future Tutorial Content:
 - Linux
 - Python
 - Kubernetes
 - Docker
-- Ansible
-- Jenkins
-- Tutorials
+- Terraform
+- CI/CD
+- APIs
