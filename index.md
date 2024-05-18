@@ -2,6 +2,8 @@
 
 ### Stay Tuned
 
+![Radios](./_media/radios.jpg)
+
 Future Tutorial Content:
 - Linux
 - Python
