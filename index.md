@@ -12,9 +12,11 @@ Welcome to **hurtuk.io** – the digital home of Steve Hurtuk, a Solutions Archi
 
 By day, I lead cloud architecture and strategic planning at **Progressive Insurance**, serving as a Cloud Capability Leader across dozens of teams. My work spans secure, scalable infrastructure design using tools like **AWS**, **Azure**, **GCP**, **Snowflake**, **Terraform**, **Kubernetes**, and **Kafka**.
 
+With a background that spans **data engineering**, **systems automation**, and **event-driven architecture**, I’ve played key roles in enterprise transformations, platform standardization, and cloud migration initiatives. I thrive at the intersection of business value and technical innovation whre I build strong stakeholder relationships and guiding teams through complex problem-solving and implementation.
+
 But this site? It’s about building something new.
 
-As AI and machine learning reshape the future of tech, I’m diving in—learning from the ground up and sharing what I discover. Whether it's applying ML to different architecture projects, experimenting with LLMs, or building practical tools that bridge data and automation.
+As AI and machine learning reshape the future of tech, I’m diving in and learning from the ground up while sharing what I discover. Whether it's applying ML to different architecture projects, experimenting with LLMs, or building practical tools that bridge data and automation.
 
 ---
 
