@@ -1,4 +1,5 @@
-# Steve Hurtuk – Solutions Architect | DevOps Engineer | Cloud Strategist
+# Hurtuk.io
+## Architecture, automation, and all the things I wish someone told me sooner.
 
 Welcome to **hurtuk.io** – the professional space of Steve Hurtuk, a strategic-minded Solutions Architect with over a decade of experience in IT engineering and six years specializing in DevOps and cloud infrastructure.
 
