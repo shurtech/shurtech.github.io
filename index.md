@@ -1,5 +1,12 @@
-# Hurtuk.io
-## Architecture, automation, and all the things I wish someone told me sooner.
+---
+layout: default
+title: Hurtuk.io - Home
+---
+
+<H1 style="text-align:center;">Steve Hurtuk</H1>
+<div style="text-align:center;">
+  <h3>Solutions Architect | DevOps Engineer | Cloud Strategist</h3>
+</div>
 
 Welcome to **hurtuk.io** – the professional space of Steve Hurtuk, a strategic-minded Solutions Architect with over a decade of experience in IT engineering and six years specializing in DevOps and cloud infrastructure.
 
@@ -14,7 +21,7 @@ With a background that spans **data engineering**, **systems automation**, and *
 This site will evolve into a showcase of:
 
 - Hands-on **project write-ups** and **code samples**
-- Deep dives into **DevOps, data pipelines, and cloud architecture**
+- Journey into **DevOps, data pipelines, and cloud architecture**
 - Reflections on leadership, mentorship, and career growth in tech
 - Tutorials and resources from real-world engineering challenges
 

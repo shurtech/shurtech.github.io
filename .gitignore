@@ -1,0 +1,17 @@
+# Ignore site output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Ruby dependencies
+.bundle/
+vendor/
+
+# Ignore logs and temp files
+*.log
+*.tmp

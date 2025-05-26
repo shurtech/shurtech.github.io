@@ -1,3 +1,5 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Hurtuk.io
-description: Architecture, automation, and all the things I wish someone told me sooner.
+description: "Architecture, automation, and all the things I wish someone told me sooner."
