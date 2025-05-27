@@ -23,7 +23,7 @@ This site is where I document that shift. It’s a mix of technical projects, re
 ## My Career Journey:
 
 **Progressive Insurance** - *Sep. 2023 - Present*   
-IT DevOps Engineer Consultant - Strategic Planning and Architecture (Data & Cloud)
+IT DevOps Engineer Lead / Solutions Architect - Strategic Planning and Architecture (Data & Cloud)
 
 **PNC Bank** - *Aug. 2022 - Sep. 2023*   
 Software Engineer Principal | Assistant Vice President - Software Developer Enablement
