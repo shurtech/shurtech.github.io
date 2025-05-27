@@ -3,7 +3,12 @@ layout: default
 title: Projects
 ---
 
-[Home](index.md) | [Projects](projects.md)
+<nav style="text-align:center; margin: 1em 0;">
+  <a href="/" style="margin: 0 15px;">Home</a>
+  <a href="/projects.html" style="margin: 0 15px;">Projects</a>
+  <a href="/about.html" style="margin: 0 15px;">About</a>
+  <a href="https://github.com/shurtech" style="margin: 0 15px;" target="_blank">GitHub</a>
+</nav>
 
 # 🔧 Projects
 
@@ -16,9 +21,11 @@ A few things I’ve built, led, or contributed to — off the clock.
 - Enterprise-ready tagging
 - Built for work, shared for learning
 
+GitHub Project: [https://github.com/shurtech/architecture-ai-assistant](https://github.com/shurtech/architecture-ai-assistant)
+
 ---
 
-## Coming Soongit
+## Coming Soon
 
 ---
 

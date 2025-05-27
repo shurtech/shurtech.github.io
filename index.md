@@ -1,7 +1,14 @@
 ---
 layout: default
-title: Hurtuk.io - Home
+title: Home
 ---
+
+<nav style="text-align:center; margin: 1em 0;">
+  <a href="/" style="margin: 0 15px;">Home</a>
+  <a href="/projects.html" style="margin: 0 15px;">Projects</a>
+  <a href="/about.html" style="margin: 0 15px;">About</a>
+  <a href="https://github.com/shurtech" style="margin: 0 15px;" target="_blank">GitHub</a>
+</nav>
 
 <H1 style="text-align:center;">Steve Hurtuk</H1>
 <div style="text-align:center;">
